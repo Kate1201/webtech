@@ -34,7 +34,8 @@ table{
 	}
 img{
 	max-width:100%;
-	with:600;
+	display: block;
+	margin: 0 auto;
 	}
 .conteiner-fluid {
 	align:center;
